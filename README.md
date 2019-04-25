@@ -7,16 +7,16 @@ This  shopping cart project has main two modules.
 
 
 Admin Functionalities:
-Login
-See orders
-can add,delete ,update products
-can see total website visit of that day
+1.Login
+2.See orders
+3.can add,delete ,update products
+4.can see total website visit of that day
 
 
 customer Functionalities:
-can see products.
-can give order.
-can send message to admin.
+1.can see products.
+2.can give order.
+3.can send message to admin.
 
 Project Type : Website.
 
